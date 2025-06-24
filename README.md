@@ -1,6 +1,8 @@
 # Final Project: Visualisasi Data
 
-Transforming raw data into impactful visual stories using Jupyter Notebook.
+Transforming raw data into impactful visual stories using Looker Studio dan Google Colab.
+
+Link Looker Studio: https://lookerstudio.google.com/reporting/badb667f-6afb-407e-b7df-1bb0520279fd
 
 ## Table of Contents
 - [Overview](#overview)
